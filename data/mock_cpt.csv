@@ -1,0 +1,11 @@
+code,short_description,long_description
+99201,New patient office visit,"Office or other outpatient visit for the evaluation and management of a new patient, typically 10 minutes."
+99202,New patient office visit low complexity,"Office visit for new patient, straightforward medical decision making, typically 20 minutes."
+99203,New patient office visit moderate complexity,"Office visit for new patient, low to moderate complexity, typically 30 minutes."
+99204,New patient office visit moderate complexity+,"Moderate to high complexity decision-making, typically 45 minutes."
+99205,New patient office visit high complexity,"Complex patient evaluation, typically 60 minutes."
+99211,Established patient minimal visit,Brief evaluation of established patient with minimal issues.
+99212,Established patient low complexity,"Evaluation and management for established patient, 10–19 minutes."
+99213,Established patient moderate complexity,"Office visit for ongoing care, typically 20–29 minutes."
+99214,Established patient high complexity,Moderately complex follow-up for chronic conditions.
+99215,Established patient complex,"Comprehensive management, typically 40+ minutes."
